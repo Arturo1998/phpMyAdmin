@@ -1,5 +1,4 @@
 <?php  
-
    //datos de conexión
    $servername = "localhost";
    $username = "usuariotest";
